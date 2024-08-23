@@ -1,0 +1,47 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"SUSH",
+    "OBJ_NAME":"240C09DFBF2DF0DC36153DC97BC0DCHT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP",
+    "SRCDEP":"",
+    "DEVCLASS":"SABAP_DEMOS_CDS_FLIGHT",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"SAP_BASIS",
+    "CRELEASE":"754",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2019-01-16",
+    "CHECK_DATE":"2019-01-16",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"USOBHASH",
+  "data":
+  [
+   {
+    "NAME":"240C09DFBF2DF0DC36153DC97BC0DC",
+    "TYPE":"HT",
+    "PGMID":"R3TR",
+    "OBJECT":"IWSV",
+    "OBJ_NAME":"S_BOOKINGS_CDS                     0001",
+    "SERVICE_TYPE":"",
+    "SERVICE":""
+   }
+  ]
+ }
+]
